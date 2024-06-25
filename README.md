@@ -72,7 +72,7 @@ Undergraduate Coursework:
 
 • C 💻
 
-• Java ☕
+• Java 
 
 • CSS 🎨
 
