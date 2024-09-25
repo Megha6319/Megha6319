@@ -16,17 +16,13 @@
 
 ### Professional Experience 🏆
 
-**1. Student Ambassador (June 2023 – Nov 2023) at RMIT University**
+**1. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young**
    
-   Strengthened my professional network and communication skills through collaborative teamwork, 
-   enhancing my ability to effectively convey ideas. 🤝
-
-**2. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young**
-   
-   Completed a comprehensive training program, 
-   delivering a top presentation on the LinkedIn Data Breach and
-   gaining proficiency in developing robust, scalable APIs using the
-   .NET framework. 🖥️
+  • API Development: Spearheaded the development of automated APIs using the .NET framework, optimizing SQL (MySQL) and NoSQL (MongoDB) database integration, resulting in a 30% increase in 
+    backend efficiency and streamlined data processing.
+    
+  • Scalable Enterprise Solutions: Designed and implemented scalable, high- performance solutions for enterprise applications, reducing project delivery time by 25% and enhancing system 
+    reliability by 40%.
 
 **3. Software Engineer Intern (April 2022 – May 2022) at Bharat Electronics Limited (BEL)**
    
