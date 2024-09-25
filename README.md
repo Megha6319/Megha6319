@@ -125,11 +125,7 @@
 
  ##
 
- 🌐 Let's Connect 🤝
- 
-1. Gmail
-2. LinkedIn
-3. Medium
+ 🌐 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭  🤝
 
 1. [Gmail](mailto:meghabendre21@gmail.com)
 2. [LinkedIn](https://www.linkedin.com/in/megha-chandra-shekar/)
