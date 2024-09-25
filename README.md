@@ -130,6 +130,10 @@
 1. Gmail
 2. LinkedIn
 3. Medium
+
+1. [Gmail](mailto:meghabendre21@gmail.com)
+2. [LinkedIn](https://www.linkedin.com/in/megha-chandra-shekar/)
+3. [Medium](https://medium.com/@meghabendre21)
    
 ##
 
