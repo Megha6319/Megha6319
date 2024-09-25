@@ -34,11 +34,13 @@
 
 ##
 
-1. Bachelor’s in Computer Science, SVCE
+ ### 1. 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫’𝐬 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐒𝐕𝐂𝐄 🎓
 
-• The final year project titled "Empirical Analysis for Crime Prediction and Forecasting using Machine Learning and Deep Learning Techniques" aims to predict future crime types by analyzing 
-   location, time, weather, and historical crime data to improve crime prevention strategies.
-• Achievements : Google Cloud Platform, Qwiklabs: I earned skill badges for completing quests on virtual machines, Kubernetes, and BigQuery, showcasing advanced cloud computing expertise.
-                 
-                 UDYUKTA 2K19, Paper Presentation: I developed an AI chatbot using a Sequence-to-Sequence model and won the best presentation award for its successful Turing Test evaluation and 
-                                                   detailed analysis.
+𝐓𝐡𝐞 𝐟𝐢𝐧𝐚𝐥 𝐲𝐞𝐚𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐭𝐢𝐭𝐥𝐞𝐝 "𝐄𝐦𝐩𝐢𝐫𝐢𝐜𝐚𝐥 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐟𝐨𝐫 𝐂𝐫𝐢𝐦𝐞 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 𝐮𝐬𝐢𝐧𝐠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬" 𝐚𝐢𝐦𝐬 𝐭𝐨 𝐩𝐫𝐞𝐝𝐢𝐜𝐭 𝐟𝐮𝐭𝐮𝐫𝐞 𝐜𝐫𝐢𝐦𝐞 𝐭𝐲𝐩𝐞𝐬 𝐛𝐲 𝐚𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧, 𝐭𝐢𝐦𝐞, 𝐰𝐞𝐚𝐭𝐡𝐞𝐫, 𝐚𝐧𝐝 𝐡𝐢𝐬𝐭𝐨𝐫𝐢𝐜𝐚𝐥 𝐜𝐫𝐢𝐦𝐞 𝐝𝐚𝐭𝐚 𝐭𝐨 𝐢𝐦𝐩𝐫𝐨𝐯𝐞 𝐜𝐫𝐢𝐦𝐞 𝐩𝐫𝐞𝐯𝐞𝐧𝐭𝐢𝐨𝐧 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬. 
+
+• 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 🏅 :
+
+𝟏.𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦, 𝐐𝐰𝐢𝐤𝐥𝐚𝐛𝐬: 𝐈 𝐞𝐚𝐫𝐧𝐞𝐝 𝐬𝐤𝐢𝐥𝐥 𝐛𝐚𝐝𝐠𝐞𝐬 𝐟𝐨𝐫 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐢𝐧𝐠 𝐪𝐮𝐞𝐬𝐭𝐬 𝐨𝐧 𝐯𝐢𝐫𝐭𝐮𝐚𝐥 𝐦𝐚𝐜𝐡𝐢𝐧𝐞𝐬, 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬, 𝐚𝐧𝐝 𝐁𝐢𝐠𝐐𝐮𝐞𝐫𝐲, 𝐬𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐜𝐥𝐨𝐮𝐝 𝐜𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞.
+
+𝟐. 𝐔𝐃𝐘𝐔𝐊𝐓𝐀 𝟐𝐊𝟏𝟗, 𝐏𝐚𝐩𝐞𝐫 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: 𝐈 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐚𝐧 𝐀𝐈 𝐜𝐡𝐚𝐭𝐛𝐨𝐭 𝐮𝐬𝐢𝐧𝐠 𝐚 𝐒𝐞𝐪𝐮𝐞𝐧𝐜𝐞-𝐭𝐨-𝐒𝐞𝐪𝐮𝐞𝐧𝐜𝐞 𝐦𝐨𝐝𝐞𝐥 𝐚𝐧𝐝 𝐰𝐨𝐧 𝐭𝐡𝐞 𝐛𝐞𝐬𝐭 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐚𝐰𝐚𝐫𝐝 𝐟𝐨𝐫 𝐢𝐭𝐬 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐓𝐮𝐫𝐢𝐧𝐠 𝐓𝐞𝐬𝐭 𝐞𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐝𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬.
+   
