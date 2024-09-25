@@ -16,24 +16,20 @@
 
 ### 1. Ernst & Young, Associate Software Engineer
    
-• API Development: Spearheaded the development of automated APIs using the .NET framework, optimizing SQL (MySQL) and NoSQL (MongoDB) database integration, resulting in a 30% increase in backend 
-  efficiency and streamlined data processing.
-  
-• Scalable Enterprise Solutions: Designed and implemented scalable, high-performance solutions for enterprise applications, reducing project delivery time by 25% and enhancing system reliability 
-  by 40%.🔧📈
+• 𝐀𝐏𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: 𝐒𝐩𝐞𝐚𝐫𝐡𝐞𝐚𝐝𝐞𝐝 𝐭𝐡𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐨𝐟 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐀𝐏𝐈𝐬 𝐮𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 .𝐍𝐄𝐓 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤, 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐢𝐧𝐠 𝐒𝐐𝐋 (𝐌𝐲𝐒𝐐𝐋) 𝐚𝐧𝐝 𝐍𝐨𝐒𝐐𝐋 (𝐌𝐨𝐧𝐠𝐨𝐃𝐁) 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧, 𝐫𝐞𝐬𝐮𝐥𝐭𝐢𝐧𝐠 𝐢𝐧 𝐚 𝟑𝟎% 𝐢𝐧𝐜𝐫𝐞𝐚𝐬𝐞 𝐢𝐧 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐚𝐧𝐝 𝐬𝐭𝐫𝐞𝐚𝐦𝐥𝐢𝐧𝐞𝐝 𝐝𝐚𝐭𝐚 𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠. 
+
+• 𝐒𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬: 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐚𝐧𝐝 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐞𝐝 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞, 𝐡𝐢𝐠𝐡-𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐟𝐨𝐫 𝐞𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬, 𝐫𝐞𝐝𝐮𝐜𝐢𝐧𝐠 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐲 𝐭𝐢𝐦𝐞 𝐛𝐲 𝟐𝟓% 𝐚𝐧𝐝 𝐞𝐧𝐡𝐚𝐧𝐜𝐢𝐧𝐠 𝐬𝐲𝐬𝐭𝐞𝐦 𝐫𝐞𝐥𝐢𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐛𝐲 𝟒𝟎%.🔧📈
 
 ### 2. Bharat Electronics Limited, Junior Software Engineer
    
-• Process Automation and Efficiency: Mastered Camunda BPMN and DMN process modeling, achieving a 30% increase in workflow efficiency and a 25% reduction in manual reporting errors.🛠️📊
+• 𝐏𝐫𝐨𝐜𝐞𝐬𝐬 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲: 𝐌𝐚𝐬𝐭𝐞𝐫𝐞𝐝 𝐂𝐚𝐦𝐮𝐧𝐝𝐚 𝐁𝐏𝐌𝐍 𝐚𝐧𝐝 𝐃𝐌𝐍 𝐩𝐫𝐨𝐜𝐞𝐬𝐬 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠, 𝐚𝐜𝐡𝐢𝐞𝐯𝐢𝐧𝐠 𝐚 𝟑𝟎% 𝐢𝐧𝐜𝐫𝐞𝐚𝐬𝐞 𝐢𝐧 𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐚𝐧𝐝 𝐚 𝟐𝟓% 𝐫𝐞𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐦𝐚𝐧𝐮𝐚𝐥 𝐫𝐞𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐞𝐫𝐫𝐨𝐫𝐬.🛠️📊 
 
-• Real-Time Incident Reporting System: Led the creation of an automated system with email and message notifications, reducing emergency response times by 40% and improving coordination between 
-  hospitals and police stations. 📧🚨🏥
+• 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐈𝐧𝐜𝐢𝐝𝐞𝐧𝐭 𝐑𝐞𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦: 𝐋𝐞𝐝 𝐭𝐡𝐞 𝐜𝐫𝐞𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐚𝐧 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐬𝐲𝐬𝐭𝐞𝐦 𝐰𝐢𝐭𝐡 𝐞𝐦𝐚𝐢𝐥 𝐚𝐧𝐝 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐧𝐨𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬, 𝐫𝐞𝐝𝐮𝐜𝐢𝐧𝐠 𝐞𝐦𝐞𝐫𝐠𝐞𝐧𝐜𝐲 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐭𝐢𝐦𝐞𝐬 𝐛𝐲 𝟒𝟎% 𝐚𝐧𝐝 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠 𝐜𝐨𝐨𝐫𝐝𝐢𝐧𝐚𝐭𝐢𝐨𝐧 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐡𝐨𝐬𝐩𝐢𝐭𝐚𝐥𝐬 𝐚𝐧𝐝 𝐩𝐨𝐥𝐢𝐜𝐞 𝐬𝐭𝐚𝐭𝐢𝐨𝐧𝐬. 📧🚨🏥
   
 ### 3. HiTalent, Software Developer
    
-• Full Stack Development: Built and Dockerized a Python-based "Hello World" API, integrated CI/CD pipelines, and deployed it on Google Cloud VMs. Completed tasks swiftly and ranked among the top 5 
-  peers.⚙️
-  
-• Frontend and Security: Developed a JavaScript frontend with token-based authentication and migrated to Kubernetes for scalable deployment, achieving 95% improvement in system efficiency.🔒🖥️🎯
+• 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: 𝐁𝐮𝐢𝐥𝐭 𝐚𝐧𝐝 𝐃𝐨𝐜𝐤𝐞𝐫𝐢𝐳𝐞𝐝 𝐚 𝐏𝐲𝐭𝐡𝐨𝐧-𝐛𝐚𝐬𝐞𝐝 "𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝" 𝐀𝐏𝐈, 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐂𝐈/𝐂𝐃 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬, 𝐚𝐧𝐝 𝐝𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐢𝐭 𝐨𝐧 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐕𝐌𝐬. 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 𝐭𝐚𝐬𝐤𝐬 𝐬𝐰𝐢𝐟𝐭𝐥𝐲 𝐚𝐧𝐝 𝐫𝐚𝐧𝐤𝐞𝐝 𝐚𝐦𝐨𝐧𝐠 𝐭𝐡𝐞 𝐭𝐨𝐩 𝟓 𝐩𝐞𝐞𝐫𝐬.⚙️
+
+• 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐚𝐧𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲: 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐚 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐰𝐢𝐭𝐡 𝐭𝐨𝐤𝐞𝐧-𝐛𝐚𝐬𝐞𝐝 𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐦𝐢𝐠𝐫𝐚𝐭𝐞𝐝 𝐭𝐨 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐟𝐨𝐫 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭, 𝐚𝐜𝐡𝐢𝐞𝐯𝐢𝐧𝐠 𝟗𝟓% 𝐢𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭 𝐢𝐧 𝐬𝐲𝐬𝐭𝐞𝐦 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲.🔒🖥️🎯
 
 ##
