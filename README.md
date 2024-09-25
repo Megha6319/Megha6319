@@ -12,7 +12,7 @@
 
 ##
 
-### ᴩʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴇxᴩᴇʀɪᴇɴᴄᴇ
+### ᴩʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴇxᴩᴇʀɪᴇɴᴄᴇ 🏆
 
 ### 1. 𝑬𝒓𝒏𝒔𝒕 & 𝒀𝒐𝒖𝒏𝒈, 𝑨𝒔𝒔𝒐𝒄𝒊𝒂𝒕𝒆 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓
    
@@ -34,3 +34,11 @@
 
 ##
 
+1. Bachelor’s in Computer Science, SVCE
+
+• The final year project titled "Empirical Analysis for Crime Prediction and Forecasting using Machine Learning and Deep Learning Techniques" aims to predict future crime types by analyzing 
+   location, time, weather, and historical crime data to improve crime prevention strategies.
+• Achievements : Google Cloud Platform, Qwiklabs: I earned skill badges for completing quests on virtual machines, Kubernetes, and BigQuery, showcasing advanced cloud computing expertise.
+                 
+                 UDYUKTA 2K19, Paper Presentation: I developed an AI chatbot using a Sequence-to-Sequence model and won the best presentation award for its successful Turing Test evaluation and 
+                                                   detailed analysis.
