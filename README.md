@@ -14,7 +14,7 @@
 
 ## 
 
-### Professional Experience 🏆
+### ᴩʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴇxᴩᴇʀɪᴇɴᴄᴇ🏆
 
 **1. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young**
    
