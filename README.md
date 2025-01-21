@@ -1,10 +1,23 @@
 ### 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐚𝐠𝐞
 
-𝐈'𝐦 𝐌𝐞𝐠𝐡𝐚 𝐂𝐡𝐚𝐧𝐝𝐫𝐚 𝐒𝐡𝐞𝐤𝐚𝐫,𝐚 𝐫𝐞𝐜𝐞𝐧𝐭 𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐰𝐢𝐭𝐡 𝐚 𝐌𝐚𝐬𝐭𝐞𝐫'𝐬 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐭 𝐑𝐌𝐈𝐓 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲. 
+𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-𝐇𝐚𝐯𝐢𝐧𝐠 𝐩𝐫𝐞𝐯𝐢𝐨𝐮𝐬𝐥𝐲 𝐞𝐚𝐫𝐧𝐞𝐝 𝐦𝐲 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐭 𝐒𝐕𝐂𝐄 𝐢𝐧 𝐁𝐞𝐧𝐠𝐚𝐥𝐮𝐫𝐮. 
+Hey, I'm Megha, a Data Science Enthusiast with a passion for exploring the world of data science and machine learning. I specialize in learning new technologies and applying them to real-world challenges, focusing on analyzing data, building models, and gaining insights that drive business value.
 
-𝐃𝐫𝐢𝐯𝐞𝐧 𝐛𝐲 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧, 𝐈’𝐦 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐜𝐨𝐦𝐛𝐢𝐧𝐢𝐧𝐠 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐰𝐢𝐭𝐡 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐢𝐦𝐩𝐚𝐜𝐭𝐟𝐮𝐥 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬. 
+𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼
+
+• Data Analysis: Using Python to explore and analyze datasets.
+• Data Preprocessing: Cleaning and preparing data to ensure high-quality model input.
+• Data Visualization: Creating meaningful visualizations with tools such as Matplotlib and Seaborn.
+• Model Building: Applying machine learning algorithms for classification, regression, and clustering techniques.
+
+𝗦𝗸𝗶𝗹𝗹𝘀
+
+• Programming Languages: Python, R
+• AI and Machine Learning: NLP
+• Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+I am eager to leverage my skills in data science and continue developing professionally by contributing to impactful projects and collaborating with a dynamic team.𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 Hey, I'm Megha, a Data Science Enthusiast with a passion for exploring the world of data science and machine learning. I specialize in learning new technologies and applying them to real-world challenges, focusing on analyzing data, building models, and gaining insights that drive business value. 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼 • Data Analysis: Using Python to explore and analyze datasets. • Data Preprocessing: Cleaning and preparing data to ensure high-quality model input. • Data Visualization: Creating meaningful visualizations with tools such as Matplotlib and Seaborn. • Model Building: Applying machine learning algorithms for classification, regression, and clustering techniques. 𝗦𝗸𝗶𝗹𝗹𝘀 • Programming Languages: Python, R • AI and Machine Learning: NLP • Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn I am eager to leverage my skills in data science and continue developing professionally by contributing to impactful projects and collaborating with a dynamic team.
 
 ##
 
