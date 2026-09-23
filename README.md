@@ -7,23 +7,26 @@ I specialize in AI agent design, conversation flow architecture, prompt engineer
 
 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼
 
-• Data Analysis: Using Python to explore and analyze datasets.
+• Agentic AI: Building AI agents for customer-facing use cases
 
-• Data Preprocessing: Cleaning and preparing data to ensure high-quality model input.
+• Conversation Design: Structured flows and context-aware responses
 
-• Data Visualization: Creating meaningful visualizations with tools such as Matplotlib and Seaborn.
+• Prompt Engineering: Improving accuracy, relevance, and brand alignment
 
-• Model Building: Applying machine learning algorithms for classification, regression, and clustering techniques.
+• AI Testing and Evaluation: QA testing, issue analysis, and iterative optimization
+
+• AI Automation: Replacing manual processes with AI-powered workflows
 
 𝗦𝗸𝗶𝗹𝗹𝘀
 
-• Programming Languages: Python, R
+• AI & ML: Agentic AI, LLM, Generative AI, NLP, Machine Learning
 
-• AI and Machine Learning: NLP
+• Development: Prompt Engineering, Python, JavaScript, SQL
 
-• Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn
+• Platforms & Tools: AWS (S3, EC2), Git/GitHub, Linux/UNIX, Power BI, Tableau
 
-I am eager to leverage my skills in data science and continue developing professionally by contributing to impactful projects and collaborating with a dynamic team.
+
+I'm passionate about building AI agents that never feel robotic and are always there to resolve customer queries, even at midnight. Every conversation is a chance to make the agent a little smarter. Always looking to take on more complex AI problems and build impactful solutions.
 
 ##
 
