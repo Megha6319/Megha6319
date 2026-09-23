@@ -2,7 +2,8 @@
 
 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-Hey, I'm Megha, a Data Science Enthusiast with a passion for exploring the world of data science and machine learning. I specialize in learning new technologies and applying them to real-world challenges, focusing on analyzing data, building models, and gaining insights that drive business value.
+Hey, I'm Megha, a Forward Deployed Engineer designing and deploying real-world AI agents that handle live customer conversations across leading messaging and social channels.
+I specialize in AI agent design, conversation flow architecture, prompt engineering, context-aware response systems, and AI automation. I enjoy turning business requirements into reliable, scalable AI experiences and continuously improving agent performance through QA testing and iteration.
 
 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼
 
